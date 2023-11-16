@@ -1,24 +1,18 @@
-# Project 6 - *Tumbler Detail*
-
-Submitted by: **Ravi Tiwari**
+# *Tumbler*
 
 **Tumbler Details** is an app that show blogs from tumbler website. 
 
-Time spent: **1** hours spent in total
+## Features
 
-## Required Features
+The following functionalities are implemented:
 
-The following **required** functionality is completed:
-
-- [X] Setup navigation to the Detail Screen
-- [X] Created the Detail View UI
-- [X] Add the ability to pass data to the Detail View Controller
-- [X] Made personal finishing touches to the UI
+-  Setup navigation to the Detail Screen
+-  Created the Detail View UI
+-  Add the ability to pass data to the Detail View Controller
+-  Made personal finishing touches to the UI
 
 
-## Video Walkthrough
-
-[![Video](https://img.youtube.com/vi/hoxo9U010b4/maxresdefault.jpg)](https://youtu.be/hoxo9U010b4)
+https://github.com/ravitiwari2002/Tumblr-Blog-Part-2/assets/81186121/bfcc0a96-044a-4b42-b13c-72595126b406
 
 
 ## License
